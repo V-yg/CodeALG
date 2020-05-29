@@ -10,6 +10,6 @@ package com.yiie.figure;
  */
 public class ThreePlus {
     public static void main(String[] args) {
-
+        System.out.println("www");
     }
 }
